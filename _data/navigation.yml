@@ -10,7 +10,7 @@ main:
   #   url: /teaching/    
 
   - title: "Test"
-    url: /abc/    
+    url: /test/
     
   - title: "Blog"
     url: /blog/
