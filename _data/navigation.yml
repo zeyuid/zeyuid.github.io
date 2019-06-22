@@ -12,7 +12,7 @@ main:
   - title: "Test"
     url: /abc/    
     
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /blog/
     
   - title: "CV"
