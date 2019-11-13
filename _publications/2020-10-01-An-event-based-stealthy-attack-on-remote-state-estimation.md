@@ -16,7 +16,7 @@ Journal:
 
 Authors: 
 ===
-*Peng Cheng, **Zeyu Yang**, *Jiming Chen, Yifei Qi and Ling Shi*.
+*Peng Cheng, **Zeyu Yang**, Jiming Chen, Yifei Qi and Ling Shi*.
 
 Abstract: 
 ===
