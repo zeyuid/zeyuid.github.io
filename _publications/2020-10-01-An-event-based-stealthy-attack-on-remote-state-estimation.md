@@ -10,7 +10,7 @@ venue: '--'
 ---
 <!-- - [Download paper](https://ieeexplore.ieee.org/abstract/document/6645401/) -->
 
-Journal:
+Transaction:
 ===
 *IEEE Transactions on Automatic Control, 2020, xx(x): xxxx-xxxx*  
 
