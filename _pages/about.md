@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Ph.D candidate in Control Science and Engineering of Zhejiang University, China, supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/jmchen) and Prof. [Peng Cheng](https://person.zju.edu.cn/cp). I am a visiting student at CISPA − Helmholtz Center for Information Security, Germany, supervised by Prof. [Michael Backes](https://cispa.saarland/people/backes/) and Dr. [Yang Zhang](https://cispa.saarland/people/yang.zhang/). 
+I'm currently a Ph.D candidate in Control Science and Engineering of Zhejiang University, China, supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/jmchen) and Prof. [Peng Cheng](https://person.zju.edu.cn/cp). I was a visiting student at CISPA − Helmholtz Center for Information Security during 10.2019 -- 03.2020, supervised by Prof. [Michael Backes](https://cispa.saarland/people/backes/) and Dr. [Yang Zhang](https://cispa.saarland/people/yang.zhang/).
 I obtained my B.S. degree (with honors) from East China University of Science and Technology. 
 
 
@@ -20,5 +20,5 @@ Research Interests
 Cyber physical system security;\\
 <!-- Structure learning;\\ -->
 State estimation in LTI system;\\
-Machine learning privacy
+Privacy-preserving machine learning 
 
