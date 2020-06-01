@@ -8,7 +8,7 @@ excerpt: '> *23rd International Symposium on Research in Attacks, Intrusions and
 <!-- #paperurl: '' -->
 <!-- #citation: '' -->
 ---
-<!-- - [Download paper](https://ieeexplore.ieee.org/abstract/document/8913616) -->
+- [Download paper]
 
 Conference:
 ===
