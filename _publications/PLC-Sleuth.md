@@ -2,11 +2,11 @@
 title: "PLC-Sleuth: Detecting and Localizing PLC Intrusions Using Control Invariants"
 collection: publications
 permalink: /publication/PLC-Sleuth/
-excerpt: '> *23rd International Symposium on Research in Attacks, Intrusions and Defenses, to appear, 2020*<br>* **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen, David K.Y. Yau and Linkang Du*.'
-<!-- date: 2020-10-14 -->
-<!-- venue: '--' -->
-<!-- #paperurl: '' -->
-<!-- #citation: '' -->
+excerpt: '> *The 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2020), to appear, 2020*<br>***Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen, David K.Y. Yau and Linkang Du*.'
+date: 2020
+venue: '--'
+#paperurl: ''
+#citation: ''
 ---
 - [Download paper]
 
