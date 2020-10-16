@@ -5,8 +5,8 @@ permalink: /publication/2020-10-01-An-event-based-stealthy-attack-on-remote-stat
 excerpt: '> *IEEE Transactions on Automatic Control, 2020*<br>*Peng Cheng, **Zeyu Yang**, Jiming Chen, Yifei Qi and Ling Shi*.'
 date: Oct.2020
 <!-- venue: '--' -->
-<!-- #paperurl: '' -->
-<!-- #citation: '' -->
+#paperurl: ''
+#citation: ''
 ---
 - [Download paper](https://ieeexplore.ieee.org/abstract/document/8913616)
 
