@@ -2,17 +2,17 @@
 title: "An event-based stealthy attack on remote state estimation"
 collection: publications
 permalink: /publication/2020-10-01-An-event-based-stealthy-attack-on-remote-state-estimation/
-excerpt: '> *IEEE Transactions on Automatic Control, to appear, 2020*<br>*Peng Cheng, **Zeyu Yang**, Jiming Chen, Yifei Qi and Ling Shi*.'
-date: 2020-10-01
-venue: '--'
-#paperurl: ''
-#citation: ''
+excerpt: '> *IEEE Transactions on Automatic Control, 2020*<br>*Peng Cheng, **Zeyu Yang**, Jiming Chen, Yifei Qi and Ling Shi*.'
+date: Oct.2020
+<!-- venue: '--' -->
+<!-- #paperurl: '' -->
+<!-- #citation: '' -->
 ---
 - [Download paper](https://ieeexplore.ieee.org/abstract/document/8913616)
 
 Transaction:
 ===
-*IEEE Transactions on Automatic Control, 2020, xx(x): xxxx-xxxx*  
+*IEEE Transactions on Automatic Control, 2020, 65(10): 4348--4355*  
 
 Authors: 
 ===
