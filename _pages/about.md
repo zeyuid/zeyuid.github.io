@@ -12,7 +12,8 @@ I'm currently a Ph.D candidate in Control Science and Engineering of Zhejiang Un
 I obtained my B.S. degree (with honors) from East China University of Science and Technology. 
 
 
-I am working on security of industrial control systems (ICSs), from both aspects of system data and execution binaries. I am also interested in structure learning, privacy preserving machine learning. 
+I am working on security of industrial control systems (ICSs), from both aspects of system data and execution binaries. 
+<!-- I am also interested in structure learning, privacy preserving machine learning.  -->
 <!-- especially understanding the role of invariants in ICSs.  -->
 
 Research Interests
