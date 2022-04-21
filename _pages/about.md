@@ -18,8 +18,8 @@ I am working on security of industrial control systems (ICSs), from both the asp
 
 Research Interests
 ======
-CPS security;\\
+CPS Security;\\
 <!-- Structure learning;\\ -->
-CPS State estimation
+CPS State Estimation
 <!-- Privacy-preserving machine learning  -->
 
