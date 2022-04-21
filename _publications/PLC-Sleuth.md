@@ -9,7 +9,7 @@ venue: 'Online'
 #citation: ''
 ---
 - [Download paper](https://www.usenix.org/conference/raid2020/presentation/yang)
-
+- [Watch video](https://www.youtube.com/watch?v=cWcqw7IljlU)
 Conference:
 ===
 *The 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2020)*  
