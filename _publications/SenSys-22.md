@@ -1,7 +1,7 @@
 ---
 title: "Reverse Engineering Physical Semantics of PLC Program Variables Using Control Invariants"
 collection: publications
-permalink: /publication/Sensys22/
+permalink: /publication/SenSys-22/
 excerpt: '> *The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 22)*<br>***Zeyu Yang**, Liang He, Hua Yu, Chengcheng Zhao, Peng Cheng and Jiming Chen*.'
 <!-- date: 2022-10-01 -->
 venue: 'Online'

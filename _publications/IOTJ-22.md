@@ -1,7 +1,7 @@
 ---
 title: "Detecting PLC Intrusions Using Control Invariants"
 collection: publications
-permalink: /publication/PLC-Sleuth-IOT/
+permalink: /publication/IOTJ-22/
 excerpt: '> *IEEE Internet of Things Journal, 2022*<br>***Zeyu Yang**, Liang He, Hua Yu, Chengcheng Zhao, Peng Cheng and Jiming Chen*.'
 date: Apr. 2022
 venue: '--'
