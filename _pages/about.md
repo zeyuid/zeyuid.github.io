@@ -13,11 +13,11 @@ Prior to that, I obtained my Ph.D candidate in Control Science and Engineering o
 I obtained my B.S. degree (with honors) from East China University of Science and Technology. 
 
 
-I am working on security of Cyber Physical Systems (CPSs), including the Industrial Control Systems (ICSs) and the Internet of Things (IoTs), from both the aspects of physics and program. 
+I am working on the security of Cyber Physical Systems (CPSs), including the Industrial Control Systems (ICSs) and the Internet of Things (IoTs), from both the process physics and control program. 
 
 
-Research Interests
+Research Interests<!-- 
 ======
 CPS Security;\\
-State Estimation in Control System
+State Estimation in Cont -->rol System
 
