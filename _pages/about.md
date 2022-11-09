@@ -13,14 +13,11 @@ Prior to that, I obtained my Ph.D candidate in Control Science and Engineering o
 I obtained my B.S. degree (with honors) from East China University of Science and Technology. 
 
 
-I am working on security of industrial control systems (ICSs), from both the aspects of ICS states and controller program. 
-<!-- I am also interested in structure learning, privacy preserving machine learning.  -->
-<!-- especially understanding the role of invariants in ICSs.  -->
+I am working on security of Cyber Physical Systems (CPSs), including the Industrial Control Systems (ICSs) and the Internet of Things (IoTs), from both the aspects of physics and program. 
+
 
 Research Interests
 ======
 CPS Security;\\
-<!-- Structure learning;\\ -->
 State Estimation in Control System
-<!-- Privacy-preserving machine learning  -->
 
