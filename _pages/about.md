@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a research assistant in Zhejiang University. 
+I'm currently a postdoctoral researcher at Zhejiang University.
 Prior to that, I obtained my Ph.D degree from Zhejiang University, supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/jmchen) and Prof. [Peng Cheng](https://person.zju.edu.cn/cp), 
 and B.S. degree from East China University of Science and Technology. 
 <!-- I was a visiting student at CISPA − Helmholtz Center for Information Security, supervised by Prof. [Michael Backes](https://cispa.saarland/people/backes/) and Dr. [Yang Zhang](https://cispa.saarland/people/yang.zhang/). -->
