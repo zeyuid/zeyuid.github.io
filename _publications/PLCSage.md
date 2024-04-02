@@ -1,9 +1,9 @@
 ---
-title: "Detecting PLC Intrusions Using Control Invariants"
+title: "Mismatched Control and Monitoring Frequencies: Vulnerability, Attack, and Mitigation"
 collection: publications
 permalink: /publication/PLCSage/
-excerpt: '> *IEEE Internet of Things Journal, 2022*<br>***Zeyu Yang**, Liang He, Hua Yu, Chengcheng Zhao, Peng Cheng and Jiming Chen*.'
-date: Apr. 2022
+excerpt: '> *IEEE Transactions on Dependable and Secure Computing, 2024*<br>***Zeyu Yang**, Liang He, Peng Cheng and Jiming Chen*.'
+date: Apr. 2024
 venue: '--'
 #paperurl: ''
 #citation: ''
@@ -13,12 +13,12 @@ venue: '--'
 
 Transaction:
 ===
-*IEEE Internet of Things Journal, 2020, 65(10): 4348--4355*  
+*IEEE Transactions on Dependable and Secure Computing, 2024*  
 
 Authors: 
 ===
-***Zeyu Yang**, Liang He, Hua Yu, Chengcheng Zhao, Peng Cheng and Jiming Chen*.
+***Zeyu Yang**, Liang He, Peng Cheng and Jiming Chen*.
 
 Abstract: 
 ===
-Programmable Logic Controllers (PLCs), i.e., the core of control systems, are well-known to be vulnerable to a variety of cyber attacks. To mitigate this issue, we design PLC-Sleuth, a novel non-invasive intrusion detection/ localization system for PLCs, which is built on a set of control invariants -- i.e., the correlations between sensor readings and the concomitantly triggered PLC commands -- that exist pervasively in all control systems. Specifically, taking the system's Supervisory Control and Data Acquisition log as input, PLC-Sleuth abstracts/identifies the system's control invariants as a control graph using data-driven structure learning, and then monitors the weights of graph edges to detect anomalies thereof, which is in turn, a sign of intrusion. We have implemented and evaluated PLC-Sleuth using both a platform of Ethanol Distillation System (EDS) and a realistically simulated Tennessee Eastman (TE) process. The results show that PLC-Sleuth can: (i) identify control invariants with 100%/98.11% accuracy for EDS/TE, (ii) detect PLC intrusions with 98.33%/0.85% true/false positives for EDS and 100%/0% true/false positives for TE, and (iii) localize intrusions with 93.22%/96.76% accuracy for EDS/TE.
+Stealthy attacks manipulate the operation of Industrial Control Systems (ICSs) without being undetected, allowing persistent manipulation of system operation and thus the potential to cause destructive damage. This paper introduces a new vulnerability of ICS that can be exploited to mount stealthy attacks without requiring any domain knowledge. This vulnerability is caused by a common practice in system monitoring, i.e., the SCADA monitors ICS operation at a much lower frequency than system execution, causing a loss of precision when the SCADA tries to cross-validate the issued control commands using the collected sensory data. Exploiting this vulnerability, an attack called PLC-SAGE is designed to stealthily manipulate the system operation by identifying and injecting malicious control commands that will not be concluded as abnormal by the SCADA. This paper further discusses a preferred ICS engineering practice and an attestation strategy to mitigate the above vulnerability and protect ICS from PLC-SAGE. Both PLC-SAGE and the proposed mitigations have been experimentally validated on two ICS platforms.
