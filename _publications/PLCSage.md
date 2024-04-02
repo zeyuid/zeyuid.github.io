@@ -8,8 +8,7 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-- [Download paper]
-<!-- (https://ieeexplore.ieee.org/abstract/document/9749129) -->
+- [Download paper](./files/PLCSage.pdf)
 
 Transaction:
 ===
