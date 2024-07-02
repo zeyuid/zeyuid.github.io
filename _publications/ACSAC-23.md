@@ -14,7 +14,7 @@ venue: '--'
 
 Transaction:
 ===
-*The 39th Annual Computer Security Applications Conference (ACSAC 2023)*  
+*The 39th Annual Computer Security Applications Conference (ACSAC 2023) [Distinguished Paper Award]*  
 
 Authors: 
 ===
