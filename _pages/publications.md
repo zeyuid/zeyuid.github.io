@@ -23,7 +23,7 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 <br>
 <i>IEEE International Conference on Computer Communications</i> (**INFOCOM 2024**). 
 <br>
-[<font color="#7cc868">[pdf]</font>]()
+[<font color="#7cc868">[pdf]</font>](http://zeyuid.github.io/papers/INFOCOM2024.pdf)
 [<font color="#e8873a">[code]</font>]()
 [<font color="#cf4745">[dataset]</font>](https://github.com/hi-zer/Industrial-protocols-dataset)
 <!-- dbc6de -->
