@@ -9,7 +9,7 @@ author_profile: true
 
 
 * <font color="#327ef6">Mismatched Control and Monitoring Frequencies: Vulnerability, Attack, and Mitigation.</font>
-<br>
+<!-- <br> -->
 **Zeyu Yang**, Liang He, Peng Cheng and Jiming Chen. 
 <br>
 <i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2024. 
