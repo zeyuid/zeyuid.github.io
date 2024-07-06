@@ -27,7 +27,8 @@ Zhen Qin, <b>Zeyu Yang</b>, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Pen
 * SePanner: Analyzing Semantics of Controller Variables in Industrial Control Systems based on Network Traffic. 
 <br>
 Jie Meng, <b>Zeyu Yang</b>, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou. 
-<i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). [<b>Distinguished Paper Award</b>]
+<i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). 
+<font color="#dd0000"><b>Distinguished Paper Award</b></font>
 
 ## 2022
 
@@ -47,19 +48,20 @@ Jie Meng, <b>Zeyu Yang</b>, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Ch
 
 ## 2020
 
-* [Demo] Diagnosing PLC Using Control Invariants. 
-[[Demo Video]](https://www.youtube.com/watch?v=2ZVj5IUiN_k) 
-<br>
-Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
-<br>
-<i>The 41st IEEE Real-Time Systems Symposium</i> (**RTSS 2020**). 
-
-
 * PLC‐Sleuth: Detecting and Localizing PLC Intrusions Using Control Invariants. 
 <br>
 <b>Zeyu Yang</b>, Liang He, Peng Cheng, Jiming Chen, David K.Y. Yau, and Linkang Du. 
 <br>
 <i>The 23rd International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2020**). 
+
+* 
+<font color="#dd0000"><b>[Demo]</b></font>
+Diagnosing PLC Using Control Invariants. 
+[[Demo Video]](https://www.youtube.com/watch?v=2ZVj5IUiN_k) 
+<br>
+Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
+<br>
+<i>The 41st IEEE Real-Time Systems Symposium</i> (**RTSS 2020**). 
 
 * An event‐based stealthy attack on remote state estimation. 
 <br>
