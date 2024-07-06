@@ -33,7 +33,7 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 <br>
 Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou. 
 <i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). <font color="#8b4692">[Distinguished Paper Award]</font>
-<br>
+<!-- <br> -->
 [[pdf]](https://dl.acm.org/doi/10.1145/3627106.3627179)
 [[code]]()
 
@@ -69,7 +69,7 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <br>
 [[pdf]](https://www.usenix.org/system/files/raid20-yang.pdf)
 
-* <font color="#7cc868">[Demo]</font> Diagnosing PLC Using Control Invariants. 
+* <font color="#7cc868">[Demo]<font> Diagnosing PLC Using Control Invariants. 
 <br>
 Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
 <br>
