@@ -47,6 +47,14 @@ Jie Meng, <b>Zeyu Yang</b>, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Ch
 
 ## 2020
 
+* [Demo] Diagnosing PLC Using Control Invariants. 
+[[Demo Video]](https://www.youtube.com/watch?v=2ZVj5IUiN_k) 
+<br>
+Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
+<br>
+<i>The 41st IEEE Real-Time Systems Symposium</i> (**RTSS 2020**). 
+
+
 * PLC‐Sleuth: Detecting and Localizing PLC Intrusions Using Control Invariants. 
 <br>
 <b>Zeyu Yang</b>, Liang He, Peng Cheng, Jiming Chen, David K.Y. Yau, and Linkang Du. 
