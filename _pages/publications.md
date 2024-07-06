@@ -29,8 +29,8 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 
 ## 2023
 
-* SePanner: Analyzing Semantics of Controller Variables in Industrial Control Systems based on Network Traffic. 
-<br>
+* <font color="#327ef6">SePanner: Analyzing Semantics of Controller Variables in Industrial Control Systems based on Network Traffic.</font> 
+<!-- <br> -->
 Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou. 
 <i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). <font color="#8b4692">[Distinguished Paper Award]</font>
 <!-- <br> -->
@@ -40,8 +40,8 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 
 ## 2022
 
-* Reverse Engineering Physical Semantics of PLC Program Variables Using Control Invariants. 
-<br>
+* <font color="#327ef6">Reverse Engineering Physical Semantics of PLC Program Variables Using Control Invariants.</font> 
+<!-- <br> -->
 **Zeyu Yang**, Liang He, Hua Yu, Chengcheng Zhao, Peng Cheng, and Jiming Chen. 
 <br>
 <i>The 20th ACM Conference on Embedded Networked Sensor Systems</i> (**SenSys 2022**). 
@@ -49,8 +49,8 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 [[pdf]](https://dl.acm.org/doi/10.1145/3560905.3568521)
 
 
-* Detecting PLC Intrusions Using Control Invariants. 
-<br>
+* <font color="#327ef6">Detecting PLC Intrusions Using Control Invariants.</font> 
+<!-- <br> -->
 **Zeyu Yang**, Liang He, Hua Yu, Chengcheng Zhao, Peng Cheng, and Jiming Chen. 
 <br>
 <i>IEEE Internet of Things Journal</i> (**IoT-J 2022**). 
@@ -61,8 +61,8 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 
 ## 2020
 
-* PLC‐Sleuth: Detecting and Localizing PLC Intrusions Using Control Invariants. 
-<br>
+* <font color="#327ef6">PLC‐Sleuth: Detecting and Localizing PLC Intrusions Using Control Invariants.</font> 
+<!-- <br> -->
 **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen, David K.Y. Yau, and Linkang Du. 
 <br>
 <i>The 23rd International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2020**). 
@@ -77,8 +77,8 @@ Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
 <br>
 [[Video]](https://www.youtube.com/watch?v=2ZVj5IUiN_k) 
 
-* An event‐based stealthy attack on remote state estimation. 
-<br>
+* <font color="#327ef6">An event‐based stealthy attack on remote state estimation.</font> 
+<!-- <br> -->
 Peng Cheng, **Zeyu Yang**, Jiming Chen, Yifei Qi, and Ling Shi.
 <br>
 <i>IEEE Transactions on Automatic Control</i> (**TAC 2020**). 
