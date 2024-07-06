@@ -7,7 +7,8 @@ author_profile: true
 
 ## 2024
 
-* Mismatched Control and Monitoring Frequencies: Vulnerability, Attack, and Mitigation. 
+
+* <font color="#327ef6">Mismatched Control and Monitoring Frequencies: Vulnerability, Attack, and Mitigation.</font>
 <br>
 **Zeyu Yang**, Liang He, Peng Cheng and Jiming Chen. 
 <br>
@@ -31,11 +32,10 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 * SePanner: Analyzing Semantics of Controller Variables in Industrial Control Systems based on Network Traffic. 
 <br>
 Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou. 
-<i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). <font color="#327ef6">[Distinguished Paper Award]</font>
+<i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). <font color="#8b4692">[Distinguished Paper Award]</font>
 <br>
 [[pdf]](https://dl.acm.org/doi/10.1145/3627106.3627179)
 [[code]]()
-
 
 
 ## 2022
