@@ -27,8 +27,7 @@ Zhen Qin, <b>Zeyu Yang</b>, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Pen
 * SePanner: Analyzing Semantics of Controller Variables in Industrial Control Systems based on Network Traffic. 
 <br>
 Jie Meng, <b>Zeyu Yang</b>, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou. 
-<i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). 
-<font color="#327ef6"><b>Distinguished Paper Award</b></font>
+<i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). <font color="#327ef6">Distinguished Paper Award</font>
 
 ## 2022
 
@@ -55,9 +54,9 @@ Jie Meng, <b>Zeyu Yang</b>, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Ch
 <i>The 23rd International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2020**). 
 
 * 
-<font color="#7cc868"><b>[Demo]</b></font>
+<font color="#7cc868">[Demo]</font>
 Diagnosing PLC Using Control Invariants. 
-[[Demo Video]](https://www.youtube.com/watch?v=2ZVj5IUiN_k) 
+[[Video]](https://www.youtube.com/watch?v=2ZVj5IUiN_k) 
 <br>
 Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
 <br>
