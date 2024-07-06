@@ -14,7 +14,7 @@ author_profile: true
 <br>
 <i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2024. 
 <br>
-[[pdf]](https://ieeexplore.ieee.org/document/10495752)
+[<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10495752)
 [[code]](https://github.com/zeyuid/PLCSage)
 
 * <font color="#327ef6">Reverse Engineering Industrial Protocols Driven By Control Fields.</font> 
@@ -76,7 +76,7 @@ Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
 <i>The 41st IEEE Real-Time Systems Symposium</i> (**RTSS@Work 2020**). 
 <br>
 [[Video]](https://www.youtube.com/watch?v=2ZVj5IUiN_k)
-
+<!-- <font color="#7cc868"><font>-->
 
 
 * <font color="#327ef6">An event‐based stealthy attack on remote state estimation.</font> 
