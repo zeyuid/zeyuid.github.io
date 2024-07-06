@@ -25,7 +25,8 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 <br>
 [<font color="#7cc868">[pdf]</font>]()
 [<font color="#e8873a">[code]</font>]()
-[[dataset]](https://github.com/hi-zer/Industrial-protocols-dataset)
+[<font color="#dbc6de">[dataset]</font>](https://github.com/hi-zer/Industrial-protocols-dataset)
+
 
 
 ## 2023
