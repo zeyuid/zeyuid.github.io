@@ -25,7 +25,7 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 <br>
 [<font color="#7cc868">[pdf]</font>]()
 [<font color="#e8873a">[code]</font>]()
-[<font color="#8b4692">[dataset]</font>](https://github.com/hi-zer/Industrial-protocols-dataset)
+[<font color="#cf4745">[dataset]</font>](https://github.com/hi-zer/Industrial-protocols-dataset)
 <!-- dbc6de -->
 
 
@@ -34,7 +34,7 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 * <font color="#327ef6">SePanner: Analyzing Semantics of Controller Variables in Industrial Control Systems based on Network Traffic.</font> 
 <!-- <br> -->
 Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou. 
-<i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). <font color="#cf4745">[Distinguished Paper Award]</font>
+<i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). <font color="#8b4692">[Distinguished Paper Award]</font>
 <br>
 [<font color="#7cc868">[pdf]</font>](https://dl.acm.org/doi/10.1145/3627106.3627179)
 [<font color="#e8873a">[code]</font>]()
