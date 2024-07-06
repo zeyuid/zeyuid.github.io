@@ -1,16 +1,17 @@
 ---
-layout: archive
+# layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## 2024
 
-{% include base_path %}
+* Mismatched Control and Monitoring Frequencies: Vulnerability, Attack, and Mitigation. 
+[[pdf]](https://ieeexplore.ieee.org/document/10495752)
+[[code]](https://github.com/zeyuid/PLCSage)
+<br>
+<b>Zeyu Yang</b>, Liang He, Peng Cheng and Jiming Chen. <br>
+<i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2024. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
