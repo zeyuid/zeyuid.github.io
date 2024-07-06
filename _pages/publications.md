@@ -73,9 +73,10 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <!-- <br> -->
 Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
 <br>
-<i>The 41st IEEE Real-Time Systems Symposium</i> (**RTSS 2020**). 
+<i>The 41st IEEE Real-Time Systems Symposium</i> (**RTSS@Work 2020**). 
 <br>
-<font color="#7cc868">[[Video]](https://www.youtube.com/watch?v=2ZVj5IUiN_k)<font> 
+[[Video]](https://www.youtube.com/watch?v=2ZVj5IUiN_k)
+
 
 
 * <font color="#327ef6">An event‐based stealthy attack on remote state estimation.</font> 
