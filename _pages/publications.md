@@ -69,13 +69,14 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <br>
 [[pdf]](https://www.usenix.org/system/files/raid20-yang.pdf)
 
-* <font color="#7cc868">[Demo]<font> Diagnosing PLC Using Control Invariants. 
-<br>
+* <font color="#327ef6">Diagnosing PLC Using Control Invariants.</font> 
+<!-- <br> -->
 Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
 <br>
 <i>The 41st IEEE Real-Time Systems Symposium</i> (**RTSS 2020**). 
 <br>
-[[Video]](https://www.youtube.com/watch?v=2ZVj5IUiN_k) 
+<font color="#7cc868">[[Video]](https://www.youtube.com/watch?v=2ZVj5IUiN_k)<font> 
+
 
 * <font color="#327ef6">An event‐based stealthy attack on remote state estimation.</font> 
 <!-- <br> -->
