@@ -52,7 +52,6 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 
 * PLC‐Sleuth: Detecting and Localizing PLC Intrusions Using Control Invariants. 
 [[pdf]](https://www.usenix.org/system/files/raid20-yang.pdf)
-[[slides]](https://www.youtube.com/watch?v=cWcqw7IljlU)
 <br>
 **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen, David K.Y. Yau, and Linkang Du. 
 <br>
