@@ -12,8 +12,14 @@ author_profile: true
 **Zeyu Yang**, Liang He, Peng Cheng and Jiming Chen. 
 <br>
 <i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2024. 
-[[pdf]](https://ieeexplore.ieee.org/document/10495752)
-[[code]](https://github.com/zeyuid/PLCSage)
+<br>
+<!-- [[pdf]](https://ieeexplore.ieee.org/document/10495752)
+[[code]](https://github.com/zeyuid/PLCSage) -->
+<p>
+<a href="http://yangzhangalmo.github.io/papers/CCS24-MGTBench.pdf" class="btn--paper" target="_blank">pdf</a> 
+<a href="https://arxiv.org/abs/2303.14822" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://github.com/TrustAIRLab/MGTBench" class="btn--code" target="_blank">code</a>
+</p>
 
 * Reverse Engineering Industrial Protocols Driven By Control Fields. 
 [[pdf]]()
