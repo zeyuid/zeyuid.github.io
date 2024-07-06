@@ -25,6 +25,7 @@ Zhen Qin, <b>Zeyu Yang</b>, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Pen
 ## 2023
 
 * SePanner: Analyzing Semantics of Controller Variables in Industrial Control Systems based on Network Traffic. 
+[[pdf]](https://dl.acm.org/doi/10.1145/3627106.3627179)
 <br>
 Jie Meng, <b>Zeyu Yang</b>, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou. 
 <i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). <font color="#327ef6">Distinguished Paper Award</font>
@@ -32,12 +33,14 @@ Jie Meng, <b>Zeyu Yang</b>, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Ch
 ## 2022
 
 * Reverse Engineering Physical Semantics of PLC Program Variables Using Control Invariants. 
+[[pdf]](https://dl.acm.org/doi/10.1145/3560905.3568521)
 <br>
 <b>Zeyu Yang</b>, Liang He, Hua Yu, Chengcheng Zhao, Peng Cheng, and Jiming Chen. 
 <br>
 <i>The 20th ACM Conference on Embedded Networked Sensor Systems</i> (**SenSys 2022**). 
 
 * Detecting PLC Intrusions Using Control Invariants. 
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/9749129)
 <br>
 <b>Zeyu Yang</b>, Liang He, Hua Yu, Chengcheng Zhao, Peng Cheng, and Jiming Chen. 
 <br>
@@ -48,6 +51,8 @@ Jie Meng, <b>Zeyu Yang</b>, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Ch
 ## 2020
 
 * PLC‐Sleuth: Detecting and Localizing PLC Intrusions Using Control Invariants. 
+[[pdf]](https://www.usenix.org/system/files/raid20-yang.pdf)
+[[slides]](https://www.youtube.com/watch?v=cWcqw7IljlU)
 <br>
 <b>Zeyu Yang</b>, Liang He, Peng Cheng, Jiming Chen, David K.Y. Yau, and Linkang Du. 
 <br>
@@ -63,6 +68,7 @@ Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
 <i>The 41st IEEE Real-Time Systems Symposium</i> (**RTSS 2020**). 
 
 * An event‐based stealthy attack on remote state estimation. 
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/8913616)
 <br>
 Peng Cheng, <b>Zeyu Yang</b>, Jiming Chen, Yifei Qi, and Ling Shi.
 <br>
