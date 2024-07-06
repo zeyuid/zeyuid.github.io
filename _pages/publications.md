@@ -15,7 +15,7 @@ author_profile: true
 <i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2024. 
 <br>
 [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10495752)
-[[code]](https://github.com/zeyuid/PLCSage)
+[<font color="#e8873a">[code]</font>](https://github.com/zeyuid/PLCSage)
 
 * <font color="#327ef6">Reverse Engineering Industrial Protocols Driven By Control Fields.</font> 
 <!-- <br> -->
@@ -24,6 +24,7 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 <i>IEEE International Conference on Computer Communications</i> (**INFOCOM 2024**). 
 <br>
 [<font color="#7cc868">[pdf]</font>]()
+[<font color="#e8873a">[code]</font>]()
 [[dataset]](https://github.com/hi-zer/Industrial-protocols-dataset)
 
 
@@ -35,7 +36,7 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). <font color="#8b4692">[Distinguished Paper Award]</font>
 <br>
 [<font color="#7cc868">[pdf]</font>](https://dl.acm.org/doi/10.1145/3627106.3627179)
-<!-- [[code]]() -->
+[<font color="#e8873a">[code]</font>]()
 
 
 ## 2022
@@ -47,6 +48,8 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <i>The 20th ACM Conference on Embedded Networked Sensor Systems</i> (**SenSys 2022**). 
 <br>
 [<font color="#7cc868">[pdf]</font>](https://dl.acm.org/doi/10.1145/3560905.3568521)
+[<font color="#e8873a">[code]</font>]()
+
 
 
 * <font color="#327ef6">Detecting PLC Intrusions Using Control Invariants.</font> 
@@ -56,6 +59,7 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <i>IEEE Internet of Things Journal</i> (**IoT-J 2022**). 
 <br>
 [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/abstract/document/9749129)
+[<font color="#e8873a">[code]</font>]()
 
 
 
@@ -68,6 +72,8 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <i>The 23rd International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2020**). 
 <br>
 [<font color="#7cc868">[pdf]</font>](https://www.usenix.org/system/files/raid20-yang.pdf)
+[<font color="#e8873a">[code]</font>]()
+
 
 * <font color="#327ef6">Diagnosing PLC Using Control Invariants.</font> 
 <!-- <br> -->
@@ -76,7 +82,8 @@ Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
 <i>The 41st IEEE Real-Time Systems Symposium</i> (**RTSS@Work 2020**). 
 <br>
 [<font color="#7cc868">[pdf]</font>](http://zeyuid.github.io/papers/PLCDiagnosing.pdf)
-[[Video]](https://www.youtube.com/watch?v=2ZVj5IUiN_k)
+[<font color="#f6c74e">[Video](https://www.youtube.com/watch?v=2ZVj5IUiN_k)
+
 
 
 * <font color="#327ef6">An event‐based stealthy attack on remote state estimation.</font> 
