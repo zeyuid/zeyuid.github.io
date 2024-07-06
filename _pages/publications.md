@@ -11,7 +11,24 @@ author_profile: true
 [[pdf]](https://ieeexplore.ieee.org/document/10495752)
 [[code]](https://github.com/zeyuid/PLCSage)
 <br>
-<b>Zeyu Yang</b>, Liang He, Peng Cheng and Jiming Chen. <br>
+<b>Zeyu Yang</b>, Liang He, Peng Cheng and Jiming Chen. 
+<br>
 <i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2024. 
+
+* Reverse Engineering Industrial Protocols Driven By Control Fields. 
+[[dataset]](https://github.com/hi-zer/Industrial-protocols-dataset)
+<br>
+Zhen Qin, <b>Zeyu Yang</b>, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng Cheng, Jiming Chen.
+<br>
+<i>IEEE International Conference on Computer Communications</i> (**INFOCOM 2024**). 
+
+## 2023
+
+* SePanner: Analyzing Semantics of Controller Variables in Industrial Control Systems based on Network Traffic. 
+<b>Distinguished Paper Award</b>
+<br>
+Jie Meng, <b>Zeyu Yang</b>, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou. 
+<i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). 
+
 
 
