@@ -35,6 +35,28 @@ Jie Meng, <b>Zeyu Yang</b>, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Ch
 <br>
 <b>Zeyu Yang</b>, Liang He, Hua Yu, Chengcheng Zhao, Peng Cheng, and Jiming Chen. 
 <br>
- <i>The 20th ACM Conference on Embedded Networked Sensor Systems</i> (**SenSys 2022**). 
+<i>The 20th ACM Conference on Embedded Networked Sensor Systems</i> (**SenSys 2022**). 
+
+* Detecting PLC Intrusions Using Control Invariants. 
+<br>
+<b>Zeyu Yang</b>, Liang He, Hua Yu, Chengcheng Zhao, Peng Cheng, and Jiming Chen. 
+<br>
+<i>IEEE Internet of Things Journal</i> (**IoT-J 2022**). 
+
+
+
+## 2020
+
+* PLC‐Sleuth: Detecting and Localizing PLC Intrusions Using Control Invariants. 
+<br>
+<b>Zeyu Yang</b>, Liang He, Peng Cheng, Jiming Chen, David K.Y. Yau, and Linkang Du. 
+<br>
+<i>The 23rd International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2020**). 
+
+* An event‐based stealthy attack on remote state estimation. 
+<br>
+Peng Cheng, <b>Zeyu Yang</b>, Jiming Chen, Yifei Qi, and Ling Shi.
+<br>
+<i>IEEE Transactions on Automatic Control</i> (**TAC 2020**). 
 
 
