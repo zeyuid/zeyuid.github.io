@@ -82,7 +82,8 @@ Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
 <i>The 41st IEEE Real-Time Systems Symposium</i> (**RTSS@Work 2020**). 
 <br>
 [<font color="#7cc868">[pdf]</font>](http://zeyuid.github.io/papers/PLCDiagnosing.pdf)
-[<font color="#f6c74e">[Video](https://www.youtube.com/watch?v=2ZVj5IUiN_k)
+[<font color="#f6c74e">[Video]</font>](https://www.youtube.com/watch?v=2ZVj5IUiN_k)
+
 
 
 
