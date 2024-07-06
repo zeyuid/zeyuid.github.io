@@ -17,8 +17,8 @@ author_profile: true
 [[pdf]](https://ieeexplore.ieee.org/document/10495752)
 [[code]](https://github.com/zeyuid/PLCSage)
 
-* Reverse Engineering Industrial Protocols Driven By Control Fields. 
-<br>
+* <font color="#327ef6">Reverse Engineering Industrial Protocols Driven By Control Fields.</font> 
+<!-- <br> -->
 Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng Cheng, Jiming Chen.
 <br>
 <i>IEEE International Conference on Computer Communications</i> (**INFOCOM 2024**). 
