@@ -23,7 +23,7 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 <br>
 <i>IEEE International Conference on Computer Communications</i> (**INFOCOM 2024**). 
 <br>
-[[pdf]]()
+[<font color="#7cc868">[pdf]</font>]()
 [[dataset]](https://github.com/hi-zer/Industrial-protocols-dataset)
 
 
@@ -34,7 +34,7 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou. 
 <i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). <font color="#8b4692">[Distinguished Paper Award]</font>
 <br>
-[[pdf]](https://dl.acm.org/doi/10.1145/3627106.3627179)
+[<font color="#7cc868">[pdf]</font>](https://dl.acm.org/doi/10.1145/3627106.3627179)
 [[code]]()
 
 
@@ -46,7 +46,7 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <br>
 <i>The 20th ACM Conference on Embedded Networked Sensor Systems</i> (**SenSys 2022**). 
 <br>
-[[pdf]](https://dl.acm.org/doi/10.1145/3560905.3568521)
+[<font color="#7cc868">[pdf]</font>](https://dl.acm.org/doi/10.1145/3560905.3568521)
 
 
 * <font color="#327ef6">Detecting PLC Intrusions Using Control Invariants.</font> 
@@ -55,7 +55,7 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <br>
 <i>IEEE Internet of Things Journal</i> (**IoT-J 2022**). 
 <br>
-[[pdf]](https://ieeexplore.ieee.org/abstract/document/9749129)
+[<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/abstract/document/9749129)
 
 
 
@@ -67,7 +67,7 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <br>
 <i>The 23rd International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2020**). 
 <br>
-[[pdf]](https://www.usenix.org/system/files/raid20-yang.pdf)
+[<font color="#7cc868">[pdf]</font>](https://www.usenix.org/system/files/raid20-yang.pdf)
 
 * <font color="#327ef6">Diagnosing PLC Using Control Invariants.</font> 
 <!-- <br> -->
@@ -85,5 +85,5 @@ Peng Cheng, **Zeyu Yang**, Jiming Chen, Yifei Qi, and Ling Shi.
 <br>
 <i>IEEE Transactions on Automatic Control</i> (**TAC 2020**). 
 <br>
-[[pdf]](https://ieeexplore.ieee.org/abstract/document/8913616)
+[<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/abstract/document/8913616)
 
