@@ -35,9 +35,8 @@ Yawen Xue, Jie Pan, Yangyang Geng, **Zeyu Yang**, Mengxiang Liu, and Ruilong Den
 </i> 2024. 
 <br>
 [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10540291)
-[<font color="#e8873a">[code]</font>](https://github.com/Margaux2022/Cybersecurity-dataset-of-EDS)
-[<font color="#cf4745">[dataset]</font>](https://github.com/Margaux2022/Cybersecurity-dataset-of-EDS)
-
+[<font color="#e8873a">[code]</font>](https://github.com/Margaux2022/Cyber-security-dataset-of-EDS)
+[<font color="#cf4745">[dataset]</font>](https://github.com/Margaux2022/Cyber-security-dataset-of-EDS)
 
 
 
