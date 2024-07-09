@@ -10,7 +10,7 @@ author_profile: true
 * <font color="#327ef6">Deception-Resistant Stochastic Manufacturing for Automated Production Lines.</font>
 **Zeyu Yang**, Hongyi Pu, Liang He, Chengtao Yao, Jianying Zhou, Peng Cheng, and Jiming Chen.
 <br>
-<i>The 27rd International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2024**). 
+<i>The 27th International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2024**). 
 <br>
 [<font color="#7cc868">[pdf]</font>]()
 [<font color="#e8873a">[code]</font>]() -->
