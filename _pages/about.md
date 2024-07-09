@@ -21,9 +21,9 @@ I am working on the security of Cyber Physical Systems (CPSs), including the Ind
 CPS Security;\\
 State Estimation in Control System -->
 
-## <!-- News
+<!-- ## News
 
-[2024.07] Our paper titled "Deception-Resistant Stochastic Manufacturing for Automated Production Lines" got accepted in RAID 2 -->024. 
+[2024.07] Our paper titled "Deception-Resistant Stochastic Manufacturing for Automated Production Lines" got accepted in RAID 2024.  -->
 
 
 
