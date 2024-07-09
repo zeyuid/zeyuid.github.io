@@ -6,15 +6,14 @@ author_profile: true
 ---
 
 ## 2024
-
+<!-- 
 * <font color="#327ef6">Deception-Resistant Stochastic Manufacturing for Automated Production Lines.</font>
-<!-- <br> -->
 **Zeyu Yang**, Hongyi Pu, Liang He, Chengtao Yao, Jianying Zhou, Peng Cheng, and Jiming Chen.
 <br>
 <i>The 27rd International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2024**). 
 <br>
 [<font color="#7cc868">[pdf]</font>]()
-[<font color="#e8873a">[code]</font>]()
+[<font color="#e8873a">[code]</font>]() -->
 
 
 * <font color="#327ef6">Mismatched Control and Monitoring Frequencies: Vulnerability, Attack, and Mitigation.</font>
@@ -26,9 +25,8 @@ author_profile: true
 [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10495752)
 [<font color="#e8873a">[code]</font>](https://github.com/zeyuid/PLCSage)
 
-
+<!-- 
 * <font color="#327ef6">Real-Time Intrusion Detection Based on Decision Fusion in Industrial Control Systems.</font>
-<!-- <br> -->
 Yawen Xue, Jie Pan, Yangyang Geng, **Zeyu Yang**, Mengxiang Liu, and Ruilong Deng.
 <br>
 <i>IEEE Transactions on Industrial Cyber-Physical Systems,
@@ -37,10 +35,7 @@ Yawen Xue, Jie Pan, Yangyang Geng, **Zeyu Yang**, Mengxiang Liu, and Ruilong Den
 [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10540291)
 [<font color="#e8873a">[code]</font>](https://github.com/Margaux2022/Cyber-security-dataset-of-EDS)
 [<font color="#cf4745">[dataset]</font>](https://github.com/Margaux2022/Cyber-security-dataset-of-EDS)
-
-
-
-
+ -->
 
 * <font color="#327ef6">Reverse Engineering Industrial Protocols Driven By Control Fields.</font> 
 <!-- <br> -->
@@ -51,7 +46,8 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 [<font color="#7cc868">[pdf]</font>](http://zeyuid.github.io/papers/INFOCOM2024.pdf)
 [<font color="#e8873a">[code]</font>](https://github.com/hi-zer/Industrial-protocols-dataset)
 [<font color="#cf4745">[dataset]</font>](https://github.com/hi-zer/Industrial-protocols-dataset)
-<!-- dbc6de -->
+
+
 
 
 ## 2023
