@@ -7,6 +7,16 @@ author_profile: true
 
 ## 2024
 
+* <font color="#327ef6">Unveiling Physical Semantics of PLC Variables Using Control Invariants.</font>
+<!-- <br> -->
+**Zeyu Yang**, Liang He, Yucheng Ruan, Peng Cheng and Jiming Chen. 
+<br>
+<i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2024. 
+<br>
+[<font color="#7cc868">[pdf]</font>]()
+[<font color="#e8873a">[code]</font>](https://github.com/zeyuid/ARES)
+
+
 * <font color="#327ef6">Deception-Resistant Stochastic Manufacturing for Automated Production Lines.</font>
 **Zeyu Yang**, Hongyi Pu, Liang He, Chengtao Yao, Jianying Zhou, Peng Cheng, and Jiming Chen.
 <br>
