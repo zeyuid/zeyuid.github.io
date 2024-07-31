@@ -36,7 +36,7 @@ author_profile: true
 [<font color="#e8873a">[code]</font>](https://github.com/zeyuid/PLCSage)
 
 
-<!-- * <font color="#327ef6">Real-Time Intrusion Detection Based on Decision Fusion in Industrial Control Systems.</font>
+* <font color="#327ef6">Real-Time Intrusion Detection Based on Decision Fusion in Industrial Control Systems.</font>
 Yawen Xue, Jie Pan, Yangyang Geng, **Zeyu Yang**, Mengxiang Liu, and Ruilong Deng.
 <br>
 <i>IEEE Transactions on Industrial Cyber-Physical Systems,
@@ -44,7 +44,7 @@ Yawen Xue, Jie Pan, Yangyang Geng, **Zeyu Yang**, Mengxiang Liu, and Ruilong Den
 <br>
 [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10540291)
 [<font color="#e8873a">[code]</font>](https://github.com/Margaux2022/Cyber-security-dataset-of-EDS)
-[<font color="#cf4745">[dataset]</font>](https://github.com/Margaux2022/Cyber-security-dataset-of-EDS) -->
+[<font color="#cf4745">[dataset]</font>](https://github.com/Margaux2022/Cyber-security-dataset-of-EDS)
 
 
 * <font color="#327ef6">Reverse Engineering Industrial Protocols Driven By Control Fields.</font> 
