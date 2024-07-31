@@ -13,7 +13,7 @@ author_profile: true
 <br>
 <i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2024. 
 <br>
-[<font color="#7cc868">[pdf]</font>]()
+[<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10616045)
 [<font color="#e8873a">[code]</font>](https://github.com/zeyuid/ARES)
 
 
