@@ -22,7 +22,7 @@ author_profile: true
 <br>
 <i>The 27th International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2024**). 
 <br>
-[<font color="#7cc868">[pdf]</font>]()
+[<font color="#7cc868">[pdf]</font>](http://zeyuid.github.io/papers/raid2024-6.pdf)
 [<font color="#e8873a">[code]</font>]()
 
 
@@ -43,7 +43,7 @@ Yawen Xue, Jie Pan, Yangyang Geng, **Zeyu Yang**, Mengxiang Liu, and Ruilong Den
 </i> 2024. 
 <br>
 [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10540291)
-[<font color="#e8873a">[code]</font>](https://github.com/Margaux2022/Cyber-security-dataset-of-EDS)
+[<font color="#e8873a">[code]</font>]()
 [<font color="#cf4745">[dataset]</font>](https://github.com/Margaux2022/Cyber-security-dataset-of-EDS)
 
 
@@ -53,8 +53,8 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 <br>
 <i>IEEE International Conference on Computer Communications</i> (**INFOCOM 2024**). 
 <br>
-[<font color="#7cc868">[pdf]</font>](http://zeyuid.github.io/papers/INFOCOM2024.pdf)
-[<font color="#e8873a">[code]</font>](https://github.com/hi-zer/Industrial-protocols-dataset)
+[<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/abstract/document/10621405)
+[<font color="#e8873a">[code]</font>]()
 [<font color="#cf4745">[dataset]</font>](https://github.com/hi-zer/Industrial-protocols-dataset)
 
 
