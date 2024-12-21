@@ -1,7 +1,7 @@
 ---
 # layout: archive
-title: "Services"
-permalink: /services/
+title: "Service"
+permalink: /service/
 author_profile: true
 ---
 
@@ -9,7 +9,7 @@ author_profile: true
 * <font color="#000000">ACNS 2025 </font> 
 
 ## Journal Reviewer
-* <font color="#000000">IEEE TDSC, IEEE TAC, Neurocomputing </font> 
+* <font color="#000000">IEEE TDSC, IEEE TAC, IEEE TR, Neurocomputing </font> 
 
 
 
