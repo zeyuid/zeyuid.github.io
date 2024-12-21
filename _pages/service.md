@@ -1,6 +1,6 @@
 ---
 # layout: archive
-title: "Service"
+# title: "Service"
 permalink: /service/
 author_profile: true
 ---
