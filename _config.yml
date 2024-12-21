@@ -169,9 +169,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
   # test:
   #   output: true
   #   permalink: /:collection/:path/
