@@ -13,8 +13,8 @@ Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng and Jimin
 <br>
 <i>IEEE Transactions on Mobile Computing</i> (**TMC**), 2025. 
 <br>
-<!-- [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10616045) -->
-<!-- [<font color="#e8873a">[code]</font>](https://github.com/zeyuid/ARES) -->
+[<font color="#7cc868">[pdf]</font>]()
+[<font color="#e8873a">[code]</font>]()
 
 ## 2024
 
