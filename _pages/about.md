@@ -23,6 +23,8 @@ State Estimation in Control System -->
 
 ## News
 
+[2025.02] One paper is accepted by IEEE TMC. 
+
 [2024.07] One paper is accepted by IEEE TDSC. 
 
 [2024.06] One paper is accepted by RAID'24. 

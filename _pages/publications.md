@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2025
+
+* <font color="#327ef6">PicaCAN: Reverse Engineering Physical Semantics of Signals in CAN Messages Using Physically-Induced Causalities.</font>
+<!-- <br> -->
+Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng and Jiming Chen. 
+<br>
+<i>IEEE Transactions on Mobile Computing</i> (**TMC**), 2025. 
+<br>
+<!-- [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10616045) -->
+<!-- [<font color="#e8873a">[code]</font>](https://github.com/zeyuid/ARES) -->
+
 ## 2024
 
 * <font color="#327ef6">Unveiling Physical Semantics of PLC Variables Using Control Invariants.</font>
