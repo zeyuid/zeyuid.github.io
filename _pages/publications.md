@@ -82,9 +82,9 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <br>
 [<font color="#7cc868">[pdf]</font>](https://dl.acm.org/doi/10.1145/3627106.3627179)
 <!-- [<font color="#e8873a">[code]</font>]() -->
-<font color="#7cc868"> style="text-decoration: none;"><a href="https://dl.acm.org/doi/10.1145/3627106.3627179">[pdf]</a></font>
+[<font color="#7cc868"><a href="https://dl.acm.org/doi/10.1145/3627106.3627179" style="text-decoration: none;">[pdf]</a></font>]
 
-<!-- <a href="https://example.com" style="text-decoration: none;"> </a> -->
+
 
 
 ## 2022
