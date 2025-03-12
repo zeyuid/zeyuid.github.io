@@ -13,8 +13,8 @@ Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng and Jimin
 <br>
 <i>IEEE Transactions on Mobile Computing</i> (**TMC**), 2025. 
 <br>
-[<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/abstract/document/10882998)
-<!-- [<font color="#e8873a">[code]</font>]() -->
+<a href="https://ieeexplore.ieee.org/abstract/document/10882998" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+
 
 ## 2024
 
@@ -24,8 +24,9 @@ Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng and Jimin
 <br>
 <i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2024. 
 <br>
-[<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10616045)
-[<font color="#e8873a">[code]</font>](https://github.com/zeyuid/ARES)
+<a href="https://ieeexplore.ieee.org/document/10616045" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://github.com/zeyuid/ARES" style="text-decoration: none;"><font color="#7cc868">[code]</font></a>
+
 
 
 * <font color="#327ef6">Deception-Resistant Stochastic Manufacturing for Automated Production Lines.</font>
@@ -33,8 +34,8 @@ Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng and Jimin
 <br>
 <i>The 27th International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2024**). 
 <br>
-[<font color="#7cc868">[pdf]</font>](http://zeyuid.github.io/papers/raid2024-6.pdf)
-<!-- [<font color="#e8873a">[code]</font>]() -->
+<a href="http://zeyuid.github.io/papers/raid2024-6.pdf" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+
 
 
 * <font color="#327ef6">Mismatched Control and Monitoring Frequencies: Vulnerability, Attack, and Mitigation.</font>
@@ -43,8 +44,8 @@ Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng and Jimin
 <br>
 <i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2024. 
 <br>
-[<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10495752)
-[<font color="#e8873a">[code]</font>](https://github.com/zeyuid/PLCSage)
+<a href="https://ieeexplore.ieee.org/document/10495752" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://github.com/zeyuid/PLCSage" style="text-decoration: none;"><font color="#7cc868">[code]</font></a>
 
 
 * <font color="#327ef6">Real-Time Intrusion Detection Based on Decision Fusion in Industrial Control Systems.</font>
@@ -53,9 +54,8 @@ Yawen Xue, Jie Pan, Yangyang Geng, **Zeyu Yang**, Mengxiang Liu, and Ruilong Den
 <i>IEEE Transactions on Industrial Cyber-Physical Systems,
 </i> 2024. 
 <br>
-[<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10540291)
-<!-- [<font color="#e8873a">[code]</font>]() -->
-[<font color="#cf4745">[dataset]</font>](https://github.com/Margaux2022/Cyber-security-dataset-of-EDS)
+<a href="https://ieeexplore.ieee.org/document/10540291" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://github.com/Margaux2022/Cyber-security-dataset-of-EDS" style="text-decoration: none;"><font color="#7cc868">[dataset]</font></a>
 
 
 * <font color="#327ef6">Reverse Engineering Industrial Protocols Driven By Control Fields.</font> 
@@ -64,11 +64,8 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 <br>
 <i>IEEE International Conference on Computer Communications</i> (**INFOCOM 2024**). 
 <br>
-[<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/abstract/document/10621405)
-<!-- [<font color="#e8873a">[code]</font>]() -->
-[<font color="#cf4745">[dataset]</font>](https://github.com/hi-zer/Industrial-protocols-dataset)
-
-
+<a href="https://ieeexplore.ieee.org/abstract/document/10621405" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://github.com/hi-zer/Industrial-protocols-dataset" style="text-decoration: none;"><font color="#7cc868">[dataset]</font></a>
 
 
 ## 2023
@@ -94,9 +91,8 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <br>
 <i>The 20th ACM Conference on Embedded Networked Sensor Systems</i> (**SenSys 2022**). 
 <br>
-[<font color="#7cc868">[pdf]</font>](https://dl.acm.org/doi/10.1145/3560905.3568521)
-[<font color="#e8873a">[code]</font>](https://github.com/zeyuid/ARES)
-
+<a href="https://dl.acm.org/doi/10.1145/3560905.3568521" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://github.com/zeyuid/ARES" style="text-decoration: none;"><font color="#7cc868">[code]</font></a>
 
 
 * <font color="#327ef6">Detecting PLC Intrusions Using Control Invariants.</font> 
@@ -105,9 +101,7 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <br>
 <i>IEEE Internet of Things Journal</i> (**IoT-J 2022**). 
 <br>
-[<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/abstract/document/9749129)
-<!-- [<font color="#e8873a">[code]</font>]() -->
-
+<a href="https://ieeexplore.ieee.org/abstract/document/9749129" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
 
 ## 2020
@@ -118,8 +112,7 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <br>
 <i>The 23rd International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2020**). 
 <br>
-[<font color="#7cc868">[pdf]</font>](https://www.usenix.org/system/files/raid20-yang.pdf)
-<!-- [<font color="#e8873a">[code]</font>]() -->
+<a href="https://www.usenix.org/system/files/raid20-yang.pdf" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
 
 * <font color="#327ef6">Diagnosing PLC Using Control Invariants.</font> 
@@ -128,10 +121,8 @@ Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
 <br>
 <i>The 41st IEEE Real-Time Systems Symposium</i> (**RTSS@Work 2020**). 
 <br>
-[<font color="#7cc868">[pdf]</font>](http://zeyuid.github.io/papers/PLCDiagnosing.pdf)
-[<font color="#f6c74e">[Video]</font>](https://www.youtube.com/watch?v=2ZVj5IUiN_k)
-
-
+<a href="http://zeyuid.github.io/papers/PLCDiagnosing.pdf" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://www.youtube.com/watch?v=2ZVj5IUiN_k" style="text-decoration: none;"><font color="#7cc868">[video]</font></a>
 
 
 * <font color="#327ef6">An event‐based stealthy attack on remote state estimation.</font> 
@@ -140,5 +131,5 @@ Peng Cheng, **Zeyu Yang**, Jiming Chen, Yifei Qi, and Ling Shi.
 <br>
 <i>IEEE Transactions on Automatic Control</i> (**TAC 2020**). 
 <br>
-[<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/abstract/document/8913616)
+<a href="https://ieeexplore.ieee.org/abstract/document/8913616" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
