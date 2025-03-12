@@ -14,7 +14,7 @@ Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng and Jimin
 <i>IEEE Transactions on Mobile Computing</i> (**TMC**), 2025. 
 <br>
 [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/abstract/document/10882998)
-[<font color="#e8873a">[code]</font>]()
+<!-- [<font color="#e8873a">[code]</font>]() -->
 
 ## 2024
 
@@ -34,7 +34,7 @@ Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng and Jimin
 <i>The 27th International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2024**). 
 <br>
 [<font color="#7cc868">[pdf]</font>](http://zeyuid.github.io/papers/raid2024-6.pdf)
-[<font color="#e8873a">[code]</font>]()
+<!-- [<font color="#e8873a">[code]</font>]() -->
 
 
 * <font color="#327ef6">Mismatched Control and Monitoring Frequencies: Vulnerability, Attack, and Mitigation.</font>
@@ -54,7 +54,7 @@ Yawen Xue, Jie Pan, Yangyang Geng, **Zeyu Yang**, Mengxiang Liu, and Ruilong Den
 </i> 2024. 
 <br>
 [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/document/10540291)
-[<font color="#e8873a">[code]</font>]()
+<!-- [<font color="#e8873a">[code]</font>]() -->
 [<font color="#cf4745">[dataset]</font>](https://github.com/Margaux2022/Cyber-security-dataset-of-EDS)
 
 
@@ -65,7 +65,7 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 <i>IEEE International Conference on Computer Communications</i> (**INFOCOM 2024**). 
 <br>
 [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/abstract/document/10621405)
-[<font color="#e8873a">[code]</font>]()
+<!-- [<font color="#e8873a">[code]</font>]() -->
 [<font color="#cf4745">[dataset]</font>](https://github.com/hi-zer/Industrial-protocols-dataset)
 
 
@@ -76,10 +76,11 @@ Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng C
 * <font color="#327ef6">SePanner: Analyzing Semantics of Controller Variables in Industrial Control Systems based on Network Traffic.</font> 
 <!-- <br> -->
 Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou. 
-<i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). <font color="#8b4692">[Distinguished Paper Award]</font>
+<i>The 39th Annual Computer Security Applications Conference</i> (**ACSAC 2023**). 
+[<img src="/images/award.jpeg" width="25"> <font color="#8b4692"> Distinguished Paper Award</font>]
 <br>
 [<font color="#7cc868">[pdf]</font>](https://dl.acm.org/doi/10.1145/3627106.3627179)
-[<font color="#e8873a">[code]</font>]()
+<!-- [<font color="#e8873a">[code]</font>]() -->
 
 
 ## 2022
@@ -102,7 +103,7 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <i>IEEE Internet of Things Journal</i> (**IoT-J 2022**). 
 <br>
 [<font color="#7cc868">[pdf]</font>](https://ieeexplore.ieee.org/abstract/document/9749129)
-[<font color="#e8873a">[code]</font>]()
+<!-- [<font color="#e8873a">[code]</font>]() -->
 
 
 
@@ -115,7 +116,7 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <i>The 23rd International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2020**). 
 <br>
 [<font color="#7cc868">[pdf]</font>](https://www.usenix.org/system/files/raid20-yang.pdf)
-[<font color="#e8873a">[code]</font>]()
+<!-- [<font color="#e8873a">[code]</font>]() -->
 
 
 * <font color="#327ef6">Diagnosing PLC Using Control Invariants.</font> 
