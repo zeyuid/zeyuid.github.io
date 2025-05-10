@@ -12,7 +12,7 @@ author_profile: true
 <!-- [<font color="#000000">CPSS 2025 </font>](http://jianying.space/cpss/CPSS2025/) -->
 * <a href="https://memocode2025.github.io/callforpapers.html" style="text-decoration: none;"><font color="#000000">[MEMOCODE 2025]</font></a>
 <!-- [<font color="#000000">MEMOCODE 2025 </font>](https://memocode2025.github.io/callforpapers.html)  -->
-
+* <a href="https://www.iwsec.org/2025/" style="text-decoration: none;"><font color="#000000">[IWSEC 2025]</font></a>
 
 
 
