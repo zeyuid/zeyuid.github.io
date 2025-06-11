@@ -18,7 +18,7 @@ Jie Meng, Zhenyong Zhang, Hengye Zhu, **Zeyu Yang**, Ruilong Deng, Peng Cheng, a
 <!-- <br> -->
 Yaxi Yang, Ivan Christian, **Zeyu Yang**, Jiaqi Yang, Huibin Wang, Zheng Yang, Jianying Zhou
 <br>
-<i>11th ACM Cyber-Physical System Security Workshop</i> (**CPSS 2025**). 
+<i>The 11th ACM Cyber-Physical System Security Workshop</i> (**CPSS 2025**). 
 <br>
 <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10882998" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a> -->
 
