@@ -22,12 +22,15 @@ CPS Security;\\
 State Estimation in Control System -->
 
 ## News
+[2025.06] One paper on assessing PLC configuration vulnerabilities was accepted by IEEE TIFS. 
 
-[2025.02] One paper is accepted by IEEE TMC. 
+[2025.05] One paper on authenticating PLC communication was accepted by CPSS 2025. 
 
-[2024.07] One paper is accepted by IEEE TDSC. 
+[2025.02] One paper on reverse-engineering semantic signals was CAN messages is accepted by IEEE TMC. 
 
-[2024.06] One paper is accepted by RAID'24. 
+[2024.07] One paper on protecting PLCs from semantic attacks was accepted by IEEE TDSC. 
+
+[2024.06] One paper on detecting production line deception attacks was accepted by RAID'24. 
 
 <!-- Our paper titled "Deception-Resistant Stochastic Manufacturing for Automated Production Lines" got accepted in RAID 2024.  -->
 

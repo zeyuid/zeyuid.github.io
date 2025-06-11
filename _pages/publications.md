@@ -6,6 +6,21 @@ author_profile: true
 ---
 
 ## 2025
+* <font color="#327ef6">SSTAF: Security Settings-based Threat Assessment Framework of Programmable Logic Controllers.</font>
+<!-- <br> -->
+Jie Meng, Zhenyong Zhang, Hengye Zhu, **Zeyu Yang**, Ruilong Deng, Peng Cheng, and Jianying Zhou
+<br>
+<i>IEEE Transactions on Information Forensics and Security</i> (**TIFS**), 2025. 
+<br>
+<!-- <a href="https://ieeexplore.ieee.org/abstract/document/10882998" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a> -->
+
+* <font color="#327ef6">AuthPLC: Authenticating PLC Communication Using ST-based Extended Cryptographic Library.</font>
+<!-- <br> -->
+Yaxi Yang, Ivan Christian, **Zeyu Yang**, Jiaqi Yang, Huibin Wang, Zheng Yang, Jianying Zhou
+<br>
+<i>11th ACM Cyber-Physical System Security Workshop</i> (CPSS 2025). 
+<br>
+<!-- <a href="https://ieeexplore.ieee.org/abstract/document/10882998" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a> -->
 
 * <font color="#327ef6">PicaCAN: Reverse Engineering Physical Semantics of Signals in CAN Messages Using Physically-Induced Causalities.</font>
 <!-- <br> -->
