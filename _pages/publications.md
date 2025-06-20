@@ -12,7 +12,7 @@ Jie Meng, Zhenyong Zhang, Hengye Zhu, **Zeyu Yang**, Ruilong Deng, Peng Cheng, a
 <br>
 <i>IEEE Transactions on Information Forensics and Security</i> (**TIFS**), 2025. 
 <br>
-<!-- <a href="https://ieeexplore.ieee.org/abstract/document/10882998" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a> -->
+<a href="https://ieeexplore.ieee.org/document/11044361" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
 * <font color="#327ef6">AuthPLC: Authenticating PLC Communication Using ST-based Extended Cryptographic Library.</font>
 <!-- <br> -->
