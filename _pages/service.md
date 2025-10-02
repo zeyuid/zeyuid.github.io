@@ -17,7 +17,7 @@ author_profile: true
 
 
 ## Journal Reviewer
-* <font color="#000000">IEEE TDSC, IEEE TAC, IEEE TR, IEEE TVT, Neurocomputing </font> 
+* <font color="#000000">IEEE TDSC, IEEE TAC, IEEE TR, IEEE TVT, IEEE TMC, Neurocomputing </font> 
 
 
 
