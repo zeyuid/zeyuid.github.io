@@ -28,7 +28,7 @@ Yaxi Yang, Ivan Christian, **Zeyu Yang**, Jiaqi Yang, Huibin Wang, Zheng Yang, J
 <br>
 <i>The 11th ACM Cyber-Physical System Security Workshop</i> (**CPSS 2025**). 
 <br>
-<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://dl.acm.org/doi/10.1145/3709017.3737708" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
 * <font color="#327ef6">PicaCAN: Reverse Engineering Physical Semantics of Signals in CAN Messages Using Physically-Induced Causalities.</font>
 <!-- <br> -->
