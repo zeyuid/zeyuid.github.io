@@ -22,6 +22,8 @@ CPS Security;\\
 State Estimation in Control System -->
 
 ## News
+[2025.09] One paper on verifying the process-aware integrity of PLC program was accepted by IEEE TIFS. 
+
 [2025.06] One paper on assessing PLC configuration vulnerabilities was accepted by IEEE TIFS. 
 
 [2025.05] One paper on authenticating PLC communication was accepted by CPSS 2025. 
