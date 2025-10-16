@@ -12,7 +12,7 @@ Chengtao Yao, Chengcheng Zhao, **Zeyu Yang**, Peng Cheng, and Jiming Chen
 <br>
 <i>IEEE Transactions on Information Forensics and Security</i> (**TIFS**), 2025. 
 <br>
-<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://ieeexplore.ieee.org/document/11202252" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
 * <font color="#327ef6">SSTAF: Security Settings-based Threat Assessment Framework of Programmable Logic Controllers.</font>
 <!-- <br> -->
