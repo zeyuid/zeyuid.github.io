@@ -152,7 +152,6 @@ Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
 <!-- <br> -->
 Peng Cheng, **Zeyu Yang**, Jiming Chen, Yifei Qi, and Ling Shi.
 <br>
-<i>IEEE Transactions on Automatic Control</i> (**TAC 2020**). 
+<i>IEEE Transactions on Automatic Control</i> (**TAC**), 2020. 
 <br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8913616" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
-
