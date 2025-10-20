@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 ## 2025
+* <font color="#327ef6">ADIS: Detecting and Identifying Manipulated PLC Program Variables Using State-Aware Dependency Graph.</font>
+<!-- <br> -->
+**Zeyu Yang**, Liang He, Yujiao Hu, Peng Cheng, Jiming Chen, and Jianying Zhou
+<br>
+<i>IEEE Transactions on Information Forensics and Security</i> (**TIFS**), 2025. 
+<br>
+<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+
 * <font color="#327ef6">Verifying PLC Control Logic for Physical Module Integrity Guided by Wiring Diagrams.</font>
 <!-- <br> -->
 Chengtao Yao, Chengcheng Zhao, **Zeyu Yang**, Peng Cheng, and Jiming Chen

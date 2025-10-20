@@ -22,6 +22,8 @@ CPS Security;\\
 State Estimation in Control System -->
 
 ## News
+[2025.10] One paper on detecting ICS attacks and tracking attack sources was accepted by IEEE TIFS. 
+
 [2025.09] One paper on verifying the process-aware integrity of PLC program was accepted by IEEE TIFS. 
 
 [2025.06] One paper on assessing PLC configuration vulnerabilities was accepted by IEEE TIFS. 
@@ -34,7 +36,6 @@ State Estimation in Control System -->
 
 [2024.06] One paper on detecting production line deception attacks was accepted by RAID'24. 
 
-<!-- Our paper titled "Deception-Resistant Stochastic Manufacturing for Automated Production Lines" got accepted in RAID 2024.  -->
 
 
 
