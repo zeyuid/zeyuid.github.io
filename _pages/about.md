@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm currently a Research Fellow at Singapore University of Technology and Design, working with Prof. [Jianying Zhou](http://jianying.space). 
-Prior to that, I obtained my Ph.D degree from Zhejiang University, supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/jmchen) and Prof. [Peng Cheng](https://person.zju.edu.cn/cp), and B.S. degree from East China University of Science and Technology. 
+Prior to that, I obtained my Ph.D degree from Zhejiang University, co-supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/jmchen), Prof. [Peng Cheng](https://person.zju.edu.cn/cp), Prof. [Liang He](https://leonhe815.github.io/), and Prof. [Chengcheng Zhao](https://person.zju.edu.cn/en/czhao), and B.S. degree from East China University of Science and Technology. 
 <!-- I was a visiting student at CISPA − Helmholtz Center for Information Security, supervised by Prof. [Michael Backes](https://cispa.saarland/people/backes/) and Dr. [Yang Zhang](https://cispa.saarland/people/yang.zhang/). -->
 
 
