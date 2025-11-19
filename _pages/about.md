@@ -22,6 +22,8 @@ CPS Security;\\
 State Estimation in Control System -->
 
 ## News
+[2025.11] One paper on launching ICS attacks by exploiting protocol vulnerabilities was accepted by IEEE IOT-J. 
+
 [2025.10] One paper on detecting ICS attacks and tracking attack sources was accepted by IEEE TIFS. 
 
 [2025.09] One paper on verifying the process-aware integrity of PLC program was accepted by IEEE TIFS. 

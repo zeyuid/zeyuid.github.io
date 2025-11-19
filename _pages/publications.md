@@ -14,6 +14,16 @@ author_profile: true
 <br>
 <a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
+
+* <font color="#327ef6">AIAF: An Automated ICP-based Attack Framework for Industrial Control Systems.</font>
+<!-- <br> -->
+Jie Meng, **Zeyu Yang**, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou
+<br>
+<i>IEEE Internet of Things Journal</i> (**IoT-J 2025**). 
+<br>
+<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+
+
 * <font color="#327ef6">Verifying PLC Control Logic for Physical Module Integrity Guided by Wiring Diagrams.</font>
 <!-- <br> -->
 Chengtao Yao, Chengcheng Zhao, **Zeyu Yang**, Peng Cheng, and Jiming Chen
