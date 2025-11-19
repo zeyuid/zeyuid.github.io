@@ -19,7 +19,7 @@ author_profile: true
 <!-- <br> -->
 Jie Meng, **Zeyu Yang**, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou
 <br>
-<i>IEEE Internet of Things Journal</i> (**IoT-J 2025**). 
+<i>IEEE Internet of Things Journal</i> (**IoT-J**), 2025. 
 <br>
 <a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
@@ -140,7 +140,7 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <!-- <br> -->
 **Zeyu Yang**, Liang He, Hua Yu, Chengcheng Zhao, Peng Cheng, and Jiming Chen. 
 <br>
-<i>IEEE Internet of Things Journal</i> (**IoT-J 2022**). 
+<i>IEEE Internet of Things Journal</i> (**IoT-J**), 2022. 
 <br>
 <a href="https://ieeexplore.ieee.org/abstract/document/9749129" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
