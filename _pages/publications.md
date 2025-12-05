@@ -12,7 +12,7 @@ author_profile: true
 <br>
 <i>IEEE Transactions on Information Forensics and Security</i> (**TIFS**), 2025. 
 <br>
-<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://ieeexplore.ieee.org/document/11269369" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
 
 * <font color="#327ef6">AIAF: An Automated ICP-based Attack Framework for Industrial Control Systems.</font>
@@ -21,7 +21,7 @@ Jie Meng, **Zeyu Yang**, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zho
 <br>
 <i>IEEE Internet of Things Journal</i> (**IoT-J**), 2025. 
 <br>
-<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://ieeexplore.ieee.org/document/11275905" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
 
 * <font color="#327ef6">Verifying PLC Control Logic for Physical Module Integrity Guided by Wiring Diagrams.</font>
