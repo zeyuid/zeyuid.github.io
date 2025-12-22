@@ -22,6 +22,8 @@ CPS Security;\\
 State Estimation in Control System -->
 
 ## News
+[2025.12] We are organizing a workshop on Artificial Intelligence and Industrial IoT Security, co-located with ACNS 2026. We warmly invite you to submit your excellent work. 
+
 [2025.11] One paper on launching ICS attacks by exploiting protocol vulnerabilities was accepted by IEEE IOT-J. 
 
 [2025.10] One paper on detecting ICS attacks and tracking attack sources was accepted by IEEE TIFS. 
