@@ -12,7 +12,8 @@ author_profile: true
 <br>
 <i>IEEE Transactions on Information Forensics and Security</i> (**TIFS**), 2025. 
 <br>
-<a href="https://ieeexplore.ieee.org/document/11269369" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://zeyuid.github.io/papers/ADIS-TIFS.pdf" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<!-- https://ieeexplore.ieee.org/document/11269369 -->
 
 
 * <font color="#327ef6">AIAF: An Automated ICP-based Attack Framework for Industrial Control Systems.</font>
