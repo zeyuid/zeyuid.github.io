@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2026
-<font color="#327ef6">An Automated Semantic Analysis Framework for Controller Variables based on Network Traffic.</font>
+* <font color="#327ef6">An Automated Semantic Analysis Framework for Controller Variables based on Network Traffic.</font>
 <!-- <br> -->
 Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou
 <br>
