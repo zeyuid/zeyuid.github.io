@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2026
+<font color="#327ef6">An Automated Semantic Analysis Framework for Controller Variables based on Network Traffic.</font>
+<!-- <br> -->
+Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou
+<br>
+<i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2026. 
+<br>
+<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+
+
+
+
 ## 2025
 * <font color="#327ef6">ADIS: Detecting and Identifying Manipulated PLC Program Variables Using State-Aware Dependency Graph.</font>
 <!-- <br> -->
