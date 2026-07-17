@@ -22,9 +22,15 @@ CPS Security;\\
 State Estimation in Control System -->
 
 ## News
-[2025.12] We are organizing a workshop on Artificial Intelligence and Industrial IoT Security (<a href="https://aiots26.github.io/main/" style="text-decoration: none;"><font color="#e8873a">AIoTS 2026</font></a>), co-located with ACNS 2026. We warmly invite you to submit your excellent work! 
+[2026.07] Our paper on real-time ICS communication authentication was accepted by RAID 2026. 
+
+[2026.07] Our paper on assessing the safety of vehicle ACC systems under CAN DOS was accepted by IEEE TMC. 
+
+[2026.06] AIoTS 2026 was a great success! Many thanks to all PC members, authors, and participants for their valuable contributions and support. 
 
 [2026.02] One paper on reverse-engineering controller variables of ICS protocol was accepted by IEEE TDSC. 
+
+[2025.12] We are organizing a workshop on Artificial Intelligence and Industrial IoT Security (<a href="https://aiots26.github.io/main/" style="text-decoration: none;"><font color="#e8873a">AIoTS 2026</font></a>), co-located with ACNS 2026. We warmly invite you to submit your excellent work! 
 
 [2025.11] One paper on launching ICS attacks by exploiting protocol vulnerabilities was accepted by IEEE IOT-J. 
 

@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## PC Member
+* <a style="text-decoration: none;"><font color="#000000">[MEMOCODE 2026]</font></a>
 * <a href="https://www.iwsec.org/2026/" style="text-decoration: none;"><font color="#000000">[IWSEC 2026]</font></a>
 * <a href="https://aiots26.github.io/main/" style="text-decoration: none;"><font color="#000000">[AIoTS 2026] (Co-Chair)</font></a>
 * <a href="https://acns2025.fordaysec.de/call-for-papers/" style="text-decoration: none;"><font color="#000000">[ACNS 2025]</font></a>

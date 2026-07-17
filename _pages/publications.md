@@ -6,13 +6,22 @@ author_profile: true
 ---
 
 ## 2026
+* <font color="#327ef6">Assessing Safety of Adaptive Cruise Control Systems Under CAN Denial-of-Service Attacks.</font>
+<!-- <br> -->
+Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Peng Cheng, Jiming Chen, Kasper Rasmussen
+<br>
+<i>IEEE Transactions on Mobile Computing</i> (**TMC**), 2026. 
+<br>
+<a href="https://ieeexplore.ieee.org/abstract/document/11603578" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+
+
 * <font color="#327ef6">An Automated Semantic Analysis Framework for Controller Variables based on Network Traffic.</font>
 <!-- <br> -->
 Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng, Jiming Chen, and Jianying Zhou
 <br>
 <i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2026. 
 <br>
-<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/11408245" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
 
 
