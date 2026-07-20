@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 ## 2026
+* <font color="#327ef6">Patronus: Real-Time Authentication of Industrial Control Systems Communication via Process-Aware Certificates.</font>
+<!-- <br> -->
+Yining Qi, Yunfan Li, Tong Wu, Zhenyong Zhang, **Zeyu Yang**, Xin Che, Jialin Li, Jiming Chen, Peng Cheng
+<br>
+<i>The 29th International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2026**). 
+<br>
+<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+
+
 * <font color="#327ef6">Assessing Safety of Adaptive Cruise Control Systems Under CAN Denial-of-Service Attacks.</font>
 <!-- <br> -->
 Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Peng Cheng, Jiming Chen, Kasper Rasmussen
@@ -22,7 +31,6 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 <i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2026. 
 <br>
 <a href="https://ieeexplore.ieee.org/abstract/document/11408245" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
-
 
 
 
