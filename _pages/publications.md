@@ -5,10 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
+
+
 ## 2026
+* <font color="#327ef6">ST-CCGN: Spatiotemporal Co-Clustering Graph Network for Multivariate Time-Series Anomaly Detection in Industrial Control Systems Invariants.</font>
+<!-- <br> -->
+Yawen Xue, **Zeyu Yang**, David K.Y. Yau, and Ruilong Deng
+<br>
+<i>IEEE Transactions on Industrial Cyber-Physical Systems</i> (**TICPS**), 2026. 
+<br>
+<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+
+
+* <font color="#327ef6">Contextualizing Cybersecurity of Industrial Control Systems with System Invariants.</font>
+<!-- <br> -->
+**Zeyu Yang**, Peng Cheng, Angelos Marnerides, Marios Polycarpou, Jianying Zhou, and Jiming Chen
+<br>
+<i>The 29th International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2026**). 
+<br>
+<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+
+
 * <font color="#327ef6">Patronus: Real-Time Authentication of Industrial Control Systems Communication via Process-Aware Certificates.</font>
 <!-- <br> -->
-Yining Qi, Yunfan Li, Tong Wu, Zhenyong Zhang, **Zeyu Yang**, Xin Che, Jialin Li, Jiming Chen, Peng Cheng
+Yining Qi, Yunfan Li, Tong Wu, Zhenyong Zhang, **Zeyu Yang**, Xin Che, Jialin Li, Jiming Chen, and Peng Cheng
 <br>
 <i>The 29th International Symposium on Research in Attacks, Intrusions and Defenses</i> (**RAID 2026**). 
 <br>
@@ -17,7 +39,7 @@ Yining Qi, Yunfan Li, Tong Wu, Zhenyong Zhang, **Zeyu Yang**, Xin Che, Jialin Li
 
 * <font color="#327ef6">Assessing Safety of Adaptive Cruise Control Systems Under CAN Denial-of-Service Attacks.</font>
 <!-- <br> -->
-Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Peng Cheng, Jiming Chen, Kasper Rasmussen
+Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Peng Cheng, Jiming Chen, and Kasper Rasmussen
 <br>
 <i>IEEE Transactions on Mobile Computing</i> (**TMC**), 2026. 
 <br>
@@ -72,7 +94,7 @@ Jie Meng, Zhenyong Zhang, Hengye Zhu, **Zeyu Yang**, Ruilong Deng, Peng Cheng, a
 
 * <font color="#327ef6">AuthPLC: Authenticating PLC Communication Using ST-based Extended Cryptographic Library.</font>
 <!-- <br> -->
-Yaxi Yang, Ivan Christian, **Zeyu Yang**, Jiaqi Yang, Huibin Wang, Zheng Yang, Jianying Zhou
+Yaxi Yang, Ivan Christian, **Zeyu Yang**, Jiaqi Yang, Huibin Wang, Zheng Yang, and Jianying Zhou
 <br>
 <i>The 11th ACM Cyber-Physical System Security Workshop</i> (**CPSS 2025**). 
 <br>
@@ -80,7 +102,7 @@ Yaxi Yang, Ivan Christian, **Zeyu Yang**, Jiaqi Yang, Huibin Wang, Zheng Yang, J
 
 * <font color="#327ef6">PicaCAN: Reverse Engineering Physical Semantics of Signals in CAN Messages Using Physically-Induced Causalities.</font>
 <!-- <br> -->
-Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng and Jiming Chen. 
+Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng, and Jiming Chen. 
 <br>
 <i>IEEE Transactions on Mobile Computing</i> (**TMC**), 2025. 
 <br>
@@ -91,7 +113,7 @@ Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng and Jimin
 
 * <font color="#327ef6">Unveiling Physical Semantics of PLC Variables Using Control Invariants.</font>
 <!-- <br> -->
-**Zeyu Yang**, Liang He, Yucheng Ruan, Peng Cheng and Jiming Chen. 
+**Zeyu Yang**, Liang He, Yucheng Ruan, Peng Cheng, and Jiming Chen. 
 <br>
 <i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2024. 
 <br>
@@ -111,7 +133,7 @@ Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng and Jimin
 
 * <font color="#327ef6">Mismatched Control and Monitoring Frequencies: Vulnerability, Attack, and Mitigation.</font>
 <!-- <br> -->
-**Zeyu Yang**, Liang He, Peng Cheng and Jiming Chen. 
+**Zeyu Yang**, Liang He, Peng Cheng, and Jiming Chen. 
 <br>
 <i>IEEE Transactions on Dependable and Secure Computing</i> (**TDSC**), 2024. 
 <br>
@@ -122,8 +144,7 @@ Yucheng Ruan, Chengcheng Zhao, **Zeyu Yang**, Yuanchao Shu, Peng Cheng and Jimin
 * <font color="#327ef6">Real-Time Intrusion Detection Based on Decision Fusion in Industrial Control Systems.</font>
 Yawen Xue, Jie Pan, Yangyang Geng, **Zeyu Yang**, Mengxiang Liu, and Ruilong Deng.
 <br>
-<i>IEEE Transactions on Industrial Cyber-Physical Systems,
-</i> 2024. 
+<i>IEEE Transactions on Industrial Cyber-Physical Systems</i> (**TICPS**), 2024. 
 <br>
 <a href="https://ieeexplore.ieee.org/document/10540291" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 <a href="https://github.com/Margaux2022/Cyber-security-dataset-of-EDS" style="text-decoration: none;"><font color="#cf4745">[dataset]</font></a>
@@ -131,7 +152,7 @@ Yawen Xue, Jie Pan, Yangyang Geng, **Zeyu Yang**, Mengxiang Liu, and Ruilong Den
 
 * <font color="#327ef6">Reverse Engineering Industrial Protocols Driven By Control Fields.</font> 
 <!-- <br> -->
-Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng Cheng, Jiming Chen.
+Zhen Qin, **Zeyu Yang**, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng Cheng, and Jiming Chen.
 <br>
 <i>IEEE International Conference on Computer Communications</i> (**INFOCOM 2024**). 
 <br>
@@ -188,7 +209,7 @@ Jie Meng, **Zeyu Yang**, Zhenyong Zhang, Yangyang Geng, Ruilong Deng, Peng Cheng
 
 * <font color="#327ef6">Diagnosing PLC Using Control Invariants.</font> 
 <!-- <br> -->
-Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, Jiming Chen.
+Hua Yu, **Zeyu Yang**, Liang He, Peng Cheng, and Jiming Chen.
 <br>
 <i>The 41st IEEE Real-Time Systems Symposium</i> (**RTSS@Work 2020**). 
 <br>

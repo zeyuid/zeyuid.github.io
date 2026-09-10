@@ -22,6 +22,10 @@ CPS Security;\\
 State Estimation in Control System -->
 
 ## News
+[2026.09] Our paper on detecting ICS anomalies using spatiotemporal graph network was accepted by IEEE TICPS. 
+
+[2026.09] Our paper on contextualizing ICS security with system invariants was accepted by IEEE Security & Privacy. 
+
 [2026.07] Our paper on real-time ICS communication authentication was accepted by RAID 2026. 
 
 [2026.07] Our paper on assessing the safety of vehicle ACC systems under CAN DOS was accepted by IEEE TMC. 
