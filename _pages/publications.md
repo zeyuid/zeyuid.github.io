@@ -23,7 +23,7 @@ Yawen Xue, **Zeyu Yang**, David K.Y. Yau, and Ruilong Deng
 <!-- <br> -->
 **Zeyu Yang**, Peng Cheng, Angelos Marnerides, Marios Polycarpou, Jianying Zhou, and Jiming Chen
 <br>
-<i>IEEE Security & Privacy</i>. 
+<i>IEEE Security & Privacy, 2026</i>. 
 <br>
 <a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
