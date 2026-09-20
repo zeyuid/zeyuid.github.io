@@ -10,13 +10,13 @@ author_profile: true
 
 
 ## 2026
-* <font color="#327ef6">ST-CCGN: Spatiotemporal Co-Clustering Graph Network for Multivariate Time-Series Anomaly Detection in Industrial Control Systems Invariants.</font>
+* <font color="#327ef6">ST-CCGN: Spatiotemporal Co-Clustering Graph Network for Multivariate Time-Series Anomaly Detection in Industrial Control Systems.</font>
 <!-- <br> -->
 Yawen Xue, **Zeyu Yang**, David K.Y. Yau, and Ruilong Deng
 <br>
 <i>IEEE Transactions on Industrial Cyber-Physical Systems</i> (**TICPS**), 2026. 
 <br>
-<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://ieeexplore.ieee.org/document/11695677" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
 
 * <font color="#327ef6">Contextualizing Cybersecurity of Industrial Control Systems with System Invariants.</font>
