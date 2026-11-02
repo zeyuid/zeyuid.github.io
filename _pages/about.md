@@ -24,7 +24,7 @@ CPS Security;\\
 State Estimation in Control System -->
 
 ## News
-[2026.10] We are organizing the 7th International Workshop on Critical Infrastructure and Maritime Systems Security (<a href="https://cimss27.github.io/" style="text-decoration: none;"><font color="#e8873a">CIMSS 2027</font></a>), co-located with ACNS 2027. We warmly invite you to submit your excellent work!
+[2026.10] We are organizing the 7th International Workshop on Critical Infrastructure and Maritime Systems Security (<a href="https://cimss2027.github.io/" style="text-decoration: none;"><font color="#e8873a">CIMSS 2027</font></a>), co-located with ACNS 2027. We warmly invite you to submit your excellent work!
 
 [2026.09] Our paper on detecting ICS anomalies using spatiotemporal graph network was accepted by IEEE TICPS. 
 
