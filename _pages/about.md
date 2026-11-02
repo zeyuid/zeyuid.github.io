@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Research Fellow at Singapore University of Technology and Design, working with Prof. [Jianying Zhou](http://jianying.space). 
-Prior to that, I obtained my Ph.D degree from Zhejiang University, co-supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/jmchen), Prof. [Peng Cheng](https://person.zju.edu.cn/cp), Prof. [Liang He](https://leonhe815.github.io/), and Prof. [Chengcheng Zhao](https://person.zju.edu.cn/en/czhao), and B.S. degree from East China University of Science and Technology. 
+I'm currently a Special Scientist at KIOS Center of Excellence, University of Cyprus, working with Prof. [Marios Polycarpou](https://www.kios.ucy.ac.cy/people/marios-polycarpou/). 
+Prior to that, I was a Research Fellow at Singapore University of Technology and Design, working with Prof. [Jianying Zhou](http://jianying.space). 
+I obtained my Ph.D degree from Zhejiang University, co-supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/jmchen), Prof. [Peng Cheng](https://person.zju.edu.cn/cp), Prof. [Liang He](https://leonhe815.github.io/), and Prof. [Chengcheng Zhao](https://person.zju.edu.cn/en/czhao), and B.S. degree from East China University of Science and Technology. 
 <!-- I was a visiting student at CISPA − Helmholtz Center for Information Security, supervised by Prof. [Michael Backes](https://cispa.saarland/people/backes/) and Dr. [Yang Zhang](https://cispa.saarland/people/yang.zhang/). -->
 
 
-I am working on the security of Cyber Physical Systems (CPSs), including the Industrial Control Systems (ICSs) and the Internet of Things (IoTs), based on the control program and the dynamics of physical processes. 
+I am working on the security of Cyber Physical Systems (CPSs), including the Industrial Control Systems (ICSs) and the Internet of Things (IoTs).
+<!-- based on the control program and the dynamics of physical processes.  -->
 
 
 <!-- Research Interests
