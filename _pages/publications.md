@@ -25,7 +25,7 @@ Yawen Xue, **Zeyu Yang**, David K.Y. Yau, and Ruilong Deng
 <br>
 <i>IEEE Security & Privacy</i>, 2026. 
 <br>
-<a href="" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
+<a href="https://ieeexplore.ieee.org/document/11718987" style="text-decoration: none;"><font color="#7cc868">[pdf]</font></a>
 
 
 * <font color="#327ef6">Patronus: Real-Time Authentication of Industrial Control Systems Communication via Process-Aware Certificates.</font>
