@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## PC Member
+* <a href="https://cimss2027.github.io/" style="text-decoration: none;"><font color="#000000">[CIMSS 2027] (Co-Chair)</font></a>
 * <a style="text-decoration: none;"><font color="#000000">[MEMOCODE 2026]</font></a>
 * <a href="https://www.iwsec.org/2026/" style="text-decoration: none;"><font color="#000000">[IWSEC 2026]</font></a>
 * <a href="https://aiots26.github.io/main/" style="text-decoration: none;"><font color="#000000">[AIoTS 2026] (Co-Chair)</font></a>
