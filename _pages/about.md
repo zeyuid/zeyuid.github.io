@@ -11,7 +11,7 @@ redirect_from:
 I am currently a Special Scientist at the KIOS Center of Excellence, University of Cyprus, working with Prof. [Marios Polycarpou](https://www.kios.ucy.ac.cy/people/marios-polycarpou/). 
 Previously, I was a Research Fellow at the Singapore University of Technology and Design, working with Prof. [Jianying Zhou](http://jianying.space/). 
 I obtained my Ph.D. from Zhejiang University, co-supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/jmchen), Prof. [Peng Cheng](https://person.zju.edu.cn/cp), Prof. [Liang He](https://leonhe815.github.io/), and Prof. [Chengcheng Zhao](https://person.zju.edu.cn/en/czhao). 
-I received my B.S. from East China University of Science and Technology.
+I received my B.Eng. from East China University of Science and Technology.
 
 
 I am working on the security of Cyber Physical Systems (CPSs), including the Industrial Control Systems (ICSs) and the Internet of Things (IoTs).
